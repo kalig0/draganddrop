@@ -64,14 +64,6 @@ body {
     color: #ff3838;
 }
 
-.wrong {
-    color: #ff3838;
-}
-
-.right {
-    color: #3ae374;
-}
-
 .draggable {
     cursor: pointer;
     display: flex;
